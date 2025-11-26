@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mike 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BC9DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud-Native+Enthusiast;Go+%7C+Vue3+%7C+TypeScript;Building+NexusPanel+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BC9DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud-Native+Enthusiast;Go+%7C+Vue3+%7C+TypeScript;Building+NexusPanel+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -41,22 +41,22 @@
 **Backend**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -66,7 +66,7 @@
 ## 🚀 Featured Project
 
 <a href="https://github.com/2670044605/NexusPanel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2670044605&repo=NexusPanel&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2670044605&repo=NexusPanel&theme=react&hide_border=true&cache_seconds=86400" />
 </a>
 
 **NexusPanel** — 🚀 Modular, cloud-native, AI-powered server management platform
@@ -82,12 +82,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=2670044605&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2670044605&layout=compact&theme=react&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=2670044605&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2670044605&layout=compact&theme=react&hide_border=true&cache_seconds=86400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2670044605&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=2670044605&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
