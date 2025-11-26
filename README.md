@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 2670044605 👋</h1>
+<h1 align="center">Hi there, I'm Mike 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BC9DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud-Native+Enthusiast;Go+%7C+Vue3+%7C+TypeScript;Building+NexusPanel+🚀" alt="Typing SVG" />
