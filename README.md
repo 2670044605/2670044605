@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/2670044605">2670044605</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/2670044605">Mike</a> 👋</h1>
 
 <p align="center">
   👀 <b>I'm interested in:</b> Server Automation, Minecraft Infrastructure, Docker & Backend Dev.<br>
