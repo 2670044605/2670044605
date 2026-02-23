@@ -1,55 +1,28 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/2670044605">Mike</a> 👋</h1>
-
-<p align="center">
-  👀 <b>I'm interested in:</b> Server Automation, Minecraft Infrastructure, Docker & Backend Dev.<br>
-  🌱 <b>I'm currently working on:</b> <a href="https://github.com/2670044605/NexusPanel">NexusPanel</a>
-</p>
-
----
-
-<h2 align="center">🚀 Featured Project</h2>
-
 <div align="center">
-  <a href="https://github.com/2670044605/NexusPanel">
-    <h3>🎮 NexusPanel</h3>
-  </a>
-  <p>
-    <strong>Automated Minecraft Java server with scheduled world backups.</strong><br>
-    Powered by Git, GitHub integration, and Docker.
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Minecraft-Java-green?style=flat-square&logo=minecraft" alt="Minecraft" />
-    <img src="https://img.shields.io/badge/Docker-Container-blue?style=flat-square&logo=docker" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-Backup-orange?style=flat-square&logo=git" alt="Git" />
-    <img src="https://img.shields.io/badge/Linux-Shell-yellow?style=flat-square&logo=linux" alt="Linux" />
-  </p>
-  
-  <a href="https://github.com/2670044605/NexusPanel">View Repository</a>
-</div>
+
+# <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+2670044605;Welcome+to+my+Profile;AI+Agent+%26+Service+Optimization;Coding+is+Art&center=true&width=500&height=50">
+
+## 🚀 技术栈 (Tech Stack)
+
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+
+## 📈 凡人修仙录 (GitHub Stats)
+
+![2670044605's GitHub stats](https://github-immortality.vercel.app/api?username=2670044605)
+
+## 🐍 贡献轨迹 (Contribution Grid)
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2670044605/2670044605/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2670044605/2670044605/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2670044605/2670044605/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=2670044605.2670044605&left_color=black&right_color=gold" alt="visitors">
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2670044605&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2670044605&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
-</p>
