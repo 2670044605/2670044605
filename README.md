@@ -34,7 +34,11 @@
 ### Contributions
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2496ED/2670044605" alt="Mike's Github Chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2670044605/2670044605/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2670044605/2670044605/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2670044605/2670044605/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
