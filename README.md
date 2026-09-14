@@ -12,6 +12,8 @@ I'm an **AI-native builder** exploring how AI can move beyond answering question
 
 I'm interested in the space between a promising model demo and a system people can trust every day. That is where agents need better skills, memory, orchestration, and judgment.
 
+> Most of my work lives in private repos — happy to share on request.
+
 ---
 
 ## What I'm Building Toward
